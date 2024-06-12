@@ -1,0 +1,87 @@
+[12-Jun-2024 21:55:59 Europe/Istanbul] PHP Warning:  Undefined array key "message" in /home/azoyunok/public_html/index.php on line 14
+[12-Jun-2024 21:56:02 Europe/Istanbul] PHP Warning:  Undefined array key "message" in /home/azoyunok/public_html/index.php on line 14
+[12-Jun-2024 21:56:04 Europe/Istanbul] PHP Warning:  Undefined array key "message" in /home/azoyunok/public_html/index.php on line 14
+[12-Jun-2024 21:59:31 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/azoyunok/public_html/ticket.php on line 10
+[12-Jun-2024 21:59:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/azoyunok/public_html/ticket.php on line 56
+[12-Jun-2024 21:59:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/azoyunok/public_html/ticket.php on line 59
+[12-Jun-2024 21:59:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/azoyunok/public_html/ticket.php on line 60
+[12-Jun-2024 21:59:40 Europe/Istanbul] PHP Warning:  Undefined array key "message" in /home/azoyunok/public_html/index.php on line 14
+[12-Jun-2024 22:03:26 Europe/Istanbul] PHP Warning:  Undefined array key "message" in /home/azoyunok/public_html/index.php on line 16
+[12-Jun-2024 22:13:45 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:46 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:46 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:48 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:48 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:49 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:49 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:50 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:50 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:51 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:51 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:51 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:51 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:51 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:51 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:51 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:51 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:13:51 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:09 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:09 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:09 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:10 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:10 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:11 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:11 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:11 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:12 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:12 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:12 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:13 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:13 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:13 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:43 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:43 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/azoyunok/public_html/index.php on line 2
+[12-Jun-2024 22:14:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/azoyunok/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/azoyunok/public_html/index.php on line 2
